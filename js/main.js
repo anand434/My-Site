@@ -49,7 +49,7 @@ contact.addEventListener('click', () => {
 
 projects.addEventListener('click', () => {
     const contactBox = new WinBox({
-        title: 'Contact Me',
+        title: 'Projects',
         width: '400px',
         height: '400px',
         top: 100,
@@ -69,7 +69,7 @@ projects.addEventListener('click', () => {
 
 resume.addEventListener('click', () => {
     const contactBox = new WinBox({
-        title: 'Contact Me',
+        title: 'Resume',
         width: '400px',
         height: '400px',
         top: 100,
